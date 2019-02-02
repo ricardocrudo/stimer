@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['enabled',['enabled',['../structstimer__t.html#a8d8dc395287b067120a3547ad455fb0b',1,'stimer_t']]]
+  ['callback',['callback',['../structstimer__t.html#a0ac8c6bf3887aafbb5c10d4f53b7377e',1,'stimer_t']]],
+  ['counter',['counter',['../structstimer__t.html#abcaea31a8afa2e4d65ab86fa1d254250',1,'stimer_t']]]
 ];

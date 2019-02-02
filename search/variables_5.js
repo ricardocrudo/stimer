@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['time',['time',['../structstimer__t.html#af9179c32fd0833aeaeafc6f1d2c94c7f',1,'stimer_t']]]
+  ['overflow',['overflow',['../structstimer__t.html#a68a39ddbbbf45e02b3a32d97016543cd',1,'stimer_t']]]
 ];

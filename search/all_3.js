@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mode',['mode',['../structstimer__t.html#ae0938b103598b17a3709569490ba5bef',1,'stimer_t']]]
+  ['g_5ftimers',['g_timers',['../stimer_8c.html#af6f2b76b987632605c29157c21a021a3',1,'stimer.c']]]
 ];

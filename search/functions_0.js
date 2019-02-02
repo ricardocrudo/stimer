@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['stimer_5fargument',['stimer_argument',['../group__stimer__funcs.html#ga96dad65a6b29fa7c0b21233745d3a9fc',1,'stimer_argument(stimer_t *timer, void *arg):&#160;stimer.c'],['../group__stimer__funcs.html#ga96dad65a6b29fa7c0b21233745d3a9fc',1,'stimer_argument(stimer_t *timer, void *arg):&#160;stimer.c']]],
   ['stimer_5fcreate',['stimer_create',['../group__stimer__funcs.html#ga3f9e05b95d9ace7e14fe372de8937d92',1,'stimer_create(stimer_mode_t mode, void(*callback)(void *arg)):&#160;stimer.c'],['../group__stimer__funcs.html#ga3f9e05b95d9ace7e14fe372de8937d92',1,'stimer_create(stimer_mode_t mode, void(*callback)(void *arg)):&#160;stimer.c']]],
   ['stimer_5fdestroy',['stimer_destroy',['../group__stimer__funcs.html#ga3831b76e7fbe6c503dc9380d08784fc5',1,'stimer_destroy(stimer_t *timer):&#160;stimer.c'],['../group__stimer__funcs.html#ga3831b76e7fbe6c503dc9380d08784fc5',1,'stimer_destroy(stimer_t *timer):&#160;stimer.c']]],
   ['stimer_5foverflow',['stimer_overflow',['../group__stimer__funcs.html#gaa97c3619f79cd280384d6c5d25b24a76',1,'stimer_overflow(stimer_t *timer):&#160;stimer.c'],['../group__stimer__funcs.html#gaa97c3619f79cd280384d6c5d25b24a76',1,'stimer_overflow(stimer_t *timer):&#160;stimer.c']]],
